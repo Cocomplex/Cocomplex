@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cocomplex&theme=transparent&show_icons=true)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cocomplex&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
